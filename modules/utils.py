@@ -1,13 +1,13 @@
 import os
 import argparse
 
-def get_file_names(folderpath, out="/home/jovyan/python_handins_bs190/testfiles/output.txt"):
+def get_file_names(folderpath, out="testfiles/output.txt"):
     files = os.listdir(folderpath)
     with open(out, "w") as f_obj:
         f_obj.write(str(files))
 
 
-def get_all_file_names(folderpath, out="/home/jovyan/python_handins_bs190/testfiles/output.txt"):
+def get_all_file_names(folderpath, out="testfiles/output.txt"):
     with open(out, "w") as f_obj:
         for root, dirs, files in os.walk(folderpath):
             f_obj.write(str(files))
@@ -33,7 +33,7 @@ def print_emails(file_names):
                         print(line)
 
 
-def write_headlines(md_files, out="/home/jovyan/python_handins_bs190/testfiles/output.txt"):
+def write_headlines(md_files, out="testfiles/output.txt"):
         for file in md_files:
             for root, dirs, files in os.walk("."):
                 if file in files:
