@@ -1,0 +1,33 @@
+stud_name,gender,course_name,teacher,ects,classroom,grade,img_url
+Jasmin X,Male,Biology,Maja Kofod,30,5F,10,student1.jpg
+Else F,Male,Philosophy,Morten Ågård,30,9C,2,student5.jpg
+Else F,Male,Psychology,Ernst Gugenheim,60,3A,4,student5.jpg
+Else F,Male,Biology,Maja Kofod,30,5F,10,student5.jpg
+Else F,Male,Communication,Sofie Andreasen,30,3D,12,student5.jpg
+Anna Q,Female,Computer Science,John Hansen,60,1B,4,student1.jpg
+Anna Q,Female,Psychology,Ernst Gugenheim,60,3A,4,student1.jpg
+Anna Q,Female,Philosophy,Morten Ågård,30,9C,2,student1.jpg
+Jasmin L,Male,Communication,Sofie Andreasen,30,3D,12,student4.jpg
+Martin D,Male,Computer Science,John Hansen,60,1B,4,student2.jpg
+Martin D,Male,Communication,Sofie Andreasen,30,3D,12,student2.jpg
+Martin D,Male,Philosophy,Morten Ågård,30,9C,2,student2.jpg
+Joe V,Male,Psychology,Ernst Gugenheim,60,3A,4,student1.jpg
+Joe V,Male,Communication,Sofie Andreasen,30,3D,12,student1.jpg
+Joe V,Male,Philosophy,Morten Ågård,30,9C,2,student1.jpg
+Joe V,Male,Biology,Maja Kofod,30,5F,10,student1.jpg
+Hanna C,Female,Philosophy,Morten Ågård,30,9C,2,student2.jpg
+Hanna C,Female,Computer Science,John Hansen,60,1B,4,student2.jpg
+Hanna T,Female,Biology,Maja Kofod,30,5F,10,student3.jpg
+Hanna T,Female,Philosophy,Morten Ågård,30,9C,2,student3.jpg
+Hanna T,Female,Communication,Sofie Andreasen,30,3D,12,student3.jpg
+Hanna T,Female,Computer Science,John Hansen,60,1B,4,student3.jpg
+Hanna W,Female,Philosophy,Morten Ågård,30,9C,2,student2.jpg
+Hanna W,Female,Biology,Maja Kofod,30,5F,10,student2.jpg
+Anna S,Male,Biology,Maja Kofod,30,5F,10,student3.jpg
+Anna S,Male,Psychology,Ernst Gugenheim,60,3A,4,student3.jpg
+Anna L,Female,Communication,Sofie Andreasen,30,3D,12,student4.jpg
+Anna L,Female,Biology,Maja Kofod,30,5F,10,student4.jpg
+Anna L,Female,Philosophy,Morten Ågård,30,9C,2,student4.jpg
+Joe I,Female,Biology,Maja Kofod,30,5F,10,student7.jpg
+Joe I,Female,Communication,Sofie Andreasen,30,3D,12,student7.jpg
+Joe I,Female,Psychology,Ernst Gugenheim,60,3A,4,student7.jpg
