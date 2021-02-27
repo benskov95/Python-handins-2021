@@ -3,6 +3,8 @@ Flask==1.0.2
 selenium==3.141.0
 openpyxl==3.0.4
 matplotlib==3.2.1
+numpy==1.18.5
+csv==1.0
 # new
 html5lib==1.1
 lxml==4.6.2
