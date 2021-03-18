@@ -8,7 +8,7 @@ pandas==1.0.4
 requests==2.23.0
 bs4
 selenium==3.141.0
-re
+re==0.0.1
 # new
 html5lib==1.1
 lxml==4.6.2
